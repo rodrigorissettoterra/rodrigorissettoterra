@@ -15,8 +15,8 @@ Amo café, e nunca dispenso uma boa conversa. Dois <b>ingredientes essenciais</b
 <table style="border-collapse: collapse; width: 100%; height: 190px;">
 <tbody>
 <tr style="height: 24px;">
-<td style="width: 30.1095%; height: 24px;"><b><em>Tecnólogo em Banco de dados</em></b></td>
-<td style="width: 69.8906%; height: 24px;">XPE Educação</td>
+<td style="width: 30.1095%; height: 24px;"><b><em>Pós-Tech em Data Analytics</em></b></td>
+<td style="width: 69.8906%; height: 24px;">FIAP - Alura</td>
 </tr>
 <tr style="height: 24px;">
 <td style="width: 30.1095%; height: 24px;"><b><em>Bacharelado em Ciências de Dados</em></b></td>
