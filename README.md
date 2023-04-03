@@ -78,6 +78,10 @@ Amo café, e nunca dispenso uma boa conversa. Dois <b>ingredientes essenciais</b
 <table style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
+<td style="width: 9.38952%;">Desde 2023</td>
+<td style="width: 90.6105%;">Analista de dados, responsável por desenvolver Projetos de Visualização de Big Data em Power BI, Modelagem de Dados - Big Data, Data Viz - Power BI / Grafana, Data Base MySQL.</td>
+</tr>
+ <tr>
 <td style="width: 9.38952%;">Desde 2021</td>
 <td style="width: 90.6105%;">Líder acadêmico, responsável pelas matérias de Gestão de Produtos Digitais, Design Thinking e Data Analytics. Gestão acadêmica e pedagógica, gestão e desenvolvimento de conteúdo e análise de dados de alunos e professores.</td>
 </tr>
