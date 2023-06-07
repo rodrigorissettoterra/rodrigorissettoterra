@@ -109,7 +109,7 @@ Amo café, e nunca dispenso uma boa conversa. Dois <b>ingredientes essenciais</b
 <ul>
  	<li><b><em><a href="https://www.youtube.com/channel/UCGloIrjJ2Hadenqc1YcQT0A?sub_confirmation=1" target="_blank" rel="noopener noreferrer">Duvidando</a></em></b>: Canal no YouTube com conteúdo educacional acessível em LIBRAS: últimos anos do Ensinos Fundamental e Médio.</li>
  	<li><b><em><a href="https://www.makerzine.com.br/" target="_blank" rel="noopener noreferrer">MakerZine</a></em></b>: Site para fomentar o compartilhamento de práticas pedagógicas entre professores.</li>
- 	<li><em><b><a href="https://www.makerzine.com.br/cozinhadedados" target="_blank" rel="noopener noreferrer">Cozinha de dados</a></b></em>:  Conteúdos voltados para o universo de dados, análises e gestão.</li>
+ 	<li><em><b><a href="https://www.makerzine.com.br/cozinha-de-dados/" target="_blank" rel="noopener noreferrer">Cozinha de dados</a></b></em>:  Conteúdos voltados para o universo de dados, análises e gestão.</li>
  	<li><b><em><a href="https://www.youtube.com/channel/UCZIdVI9NbgYE1YIEpM0Wnmw?sub_confirmation=1" target="_blank" rel="noopener noreferrer">Meu canal</a></em></b>: Canal no YouTube com conteúdo educacional, voltado para formação continuada de professores.</li>
 </ul>
 &nbsp;
