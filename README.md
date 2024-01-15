@@ -2,7 +2,7 @@
 <table style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
-<td style="width: 75%;">Me chamo <b>Rodrigo Rissetto Terra</b>. Atuei como Professor de Física, STEAM e Maker por mais de 20 anos, iniciando como Plantonista e chegando à Coordenação Pedagógica. Hoje, atuo como <b>Consultor de Tecnologias e Líder acadêmico</b>.
+<td style="width: 75%;">Me chamo <b>Rodrigo Rissetto Terra</b>. Atuei como Professor de Física, STEAM e Maker por mais de 20 anos, iniciando como Plantonista e chegando à Coordenação Pedagógica. Hoje, atuo como <b>Consultor Pedagógico e Analista de dados</b>.
 
 Acredito que uma <b>formação diversificada</b> seja essencial para despertar <b>novos pontos de vista</b>, por isso tenho como <b>meta pessoal</b> (e consequentemente profissional) sempre <b>estudar</b> algo fora da minha "zona de conforto".
 
