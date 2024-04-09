@@ -21,11 +21,6 @@ Amo café, e nunca dispenso uma boa conversa. Dois <b>ingredientes essenciais</b
 <tr style="height: 24px;">
 <td style="width: 30.1095%; height: 24px;"><b><em>Especialização em Tecnologias na Educação</em></b></td>
 <td style="width: 69.8906%; height: 24px;">Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (<em>IFMG</em>)</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 30.1095%; height: 24px;"><b><em>Tecnólogo em Jogos Digitais</em></b></td>
-<td style="width: 69.8906%; height: 24px;">Faculdade de Tecnologia do Estado de São Paulo (<em>FATEC</em>)</td>
-</tr>
 <tr style="height: 22px;">
 <td style="width: 30.1095%; height: 22px;"><b><em>MBA em Marketing Digital e E-commerce</em></b></td>
 <td style="width: 69.8906%; height: 22px;">Serviço Nacional de Aprendizagem Comercial (<em>SENAC</em>)</td>
