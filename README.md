@@ -115,7 +115,7 @@ Sou apaixonado por uma boa conversa e valorizo muito um café — dois elementos
 <ul>
  	<li><b><em><a href="https://www.youtube.com/channel/UCGloIrjJ2Hadenqc1YcQT0A?sub_confirmation=1" target="_blank" rel="noopener noreferrer">Duvidando</a></em></b>: Canal no YouTube com conteúdo educacional acessível em LIBRAS: últimos anos do Ensinos Fundamental e Médio.</li>
  	<li><b><em><a href="https://www.makerzine.com.br/" target="_blank" rel="noopener noreferrer">MakerZine</a></em></b>: Site para fomentar o compartilhamento de práticas pedagógicas entre professores.</li>
- 	<li><em><b><a href="https://www.makerzine.com.br/cozinha-de-dados/" target="_blank" rel="noopener noreferrer">Cozinha de dados</a></b></em>:  Conteúdos voltados para o universo de dados, análises e gestão.</li>
+ 	<li><b><em><a href="https://www.makerzine.com.br/cozinha-de-dados/" target="_blank" rel="noopener noreferrer">Cozinha de dados</a></em></b>:  Conteúdos voltados para o universo de dados, análises e gestão.</li>
  	<li><b><em><a href="https://www.youtube.com/channel/UCZIdVI9NbgYE1YIEpM0Wnmw?sub_confirmation=1" target="_blank" rel="noopener noreferrer">Meu canal</a></em></b>: Canal no YouTube com conteúdo educacional, voltado para formação continuada de professores.</li>
 </ul>
 &nbsp;
@@ -123,15 +123,15 @@ Sou apaixonado por uma boa conversa e valorizo muito um café — dois elementos
 </b></h2>
 <ul>
  	<li><em><b>Conhecimento -</b></em> Tudo tem o seu lado interessante... Se algo faz seus olhos brilharem, tenho certeza que brilhará os meus também!</li>
- 	<li><em><b>Networking -</b> </em>Que tal conversarmos enquanto bebemos um café?</li>
- 	<li><em><b>Café -</b> </em>Porque café é só amor!</li>
+ 	<li><em><b>Networking -</b></em>Que tal conversarmos enquanto bebemos um café?</li>
+ 	<li><em><b>Café -</b></em>Porque café é só amor!</li>
 </ul>
 &nbsp;
 <h2><b>Meus contatos e sites...</b></h2>
 <ul>
  	<li><em><b>LinkedIn -</b></em> <a href="https://www.linkedin.com/in/rodrigo-rissetto-terra" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://www.linkedin.com/in/rodrigo-rissetto-terra</em></span></a></li>
- 	<li><em><strong>Portfólio Tech - </strong></em><a href="https://www.makerzine.com.br/portfolio" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;">https://www.makerzine.com.br/portfolio</span></a></li>
- 	<li><em><strong>Certificados Alura</strong></em> - <a href="https://cursos.alura.com.br/user/rodrigorissettoterra/fullCertificate/98debe9ca9a699a7771884bbf95d09b8" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://cursos.alura.com.br/user/rodrigorissettoterra/fullCertificate/98debe9ca9a699a7771884bbf95d09b8</em></span></a></li>
- 	<li><em><strong>Badges, via Credly</strong></em> - <a href="https://www.credly.com/users/rodrigo-terra" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://www.credly.com/users/rodrigo-terra</em></span></a></li>
+ 	<li><em><b>Portfólio Tech - </b></em><a href="https://www.makerzine.com.br/portfolio" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://www.makerzine.com.br/portfolio</em>em></span></a></li>
+ 	<li><em><b>Certificados Alura</b></em> - <a href="https://cursos.alura.com.br/user/rodrigorissettoterra/fullCertificate/98debe9ca9a699a7771884bbf95d09b8" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://cursos.alura.com.br/user/rodrigorissettoterra/fullCertificate/98debe9ca9a699a7771884bbf95d09b8</em></span></a></li>
+ 	<li><em><b>Badges, via Credly</b></em> - <a href="https://www.credly.com/users/rodrigo-terra" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://www.credly.com/users/rodrigo-terra</em></span></a></li>
 </ul>
 &nbsp;
