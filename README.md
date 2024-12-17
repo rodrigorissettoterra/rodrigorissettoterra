@@ -4,7 +4,7 @@
 <tr>
 <td style="width: 75%;">Meu nome é <strong>Rodrigo Terra</strong>.
 </br>
-<p>Com formação inicial em Física, especialização em Ciências Educacionais com ênfase em Tecnologia Educacional e Docência, e graduação em Ciências de Dados, construí uma trajetória sólida que une educação, tecnologias ee inovação.</p>
+<p>Com formação inicial em Física, especialização em Ciências Educacionais com ênfase em Tecnologia Educacional e Docência, e graduação em Ciências de Dados, construí uma trajetória sólida que une educação, tecnologias e inovação.</p>
 <p>Desde 2001, dedico-me ao campo educacional, e desde 2019, atuo também na área de ciência de dados, buscando sempre encontrar soluções focadas no desenvolvimento humano. Minha experiência combina um profundo conhecimento em educação com habilidades técnicas em dados e programação, permitindo-me criar soluções estratégicas e práticas. Com ampla vivência em análise de dados, definição de métricas e desenvolvimento de indicadores, acredito que a formação transdisciplinar é essencial para preparar indivíduos conscientes e capacitados para os desafios do mundo contemporâneo.</p>
 <p>Apaixonado por café e boas conversas, sou movido pela curiosidade e pela busca constante de novas ideias e perspectivas. Minha missão é contribuir para uma educação que inspire pensamento crítico, estimule a criatividade e promova a colaboração.</p></td>
 </tr>
