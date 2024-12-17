@@ -49,11 +49,19 @@
 <table style="border-collapse: collapse; width: 100%; height: 190px;">
 <tbody>
 <tr style="height: 24px;">
-<td style="width: 26.0486%; height: 24px;"><b><em>Google Advanced Data Analytics</em></b></td>
+<td style="width: 26.0486%; height: 24px;"><b><em>Machine Learning Specialization</em></b></td>
+<td style="width: 73.9515%; height: 24px;">Stanford e DeepLearning.AI – 94h</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 26.0486%; height: 24px;"><b><em>Mathematics for Machine Learning and Data Science</em></b></td>
+<td style="width: 73.9515%; height: 24px;">DeepLearning.AI – 93h</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 26.0486%; height: 24px;"><b><em>Google Advanced Data Analytics (Professional Certificate)</em></b></td>
 <td style="width: 73.9515%; height: 24px;">Google – 201h</td>
 </tr>
 <tr style="height: 24px;">
-<td style="width: 26.0486%; height: 24px;"><em><strong>Google Data Analyst</strong></em></td>
+<td style="width: 26.0486%; height: 24px;"><em><strong>Google Data Analyst(Professional Certificate)</strong></em></td>
 <td style="width: 73.9515%; height: 24px;">Google – 178h</td>
 </tr>
 <tr style="height: 22px;">
@@ -69,11 +77,11 @@
 <td style="width: 73.9515%; height: 24px;">Digital House – 140h</td>
 </tr>
 <tr style="height: 24px;">
-<td style="width: 26.0486%; height: 24px;"><b><i>IBM Data Analyst</i></b></td>
+<td style="width: 26.0486%; height: 24px;"><b><i>IBM Data Analyst(Professional Certificate)</i></b></td>
 <td style="width: 73.9515%; height: 24px;">IBM – 148h</td>
 </tr>
 <tr>
-<td style="width: 26.0486%;"><b><i>Google Project Management</i></b></td>
+<td style="width: 26.0486%;"><b><i>Google Project Management(Professional Certificate)</i></b></td>
 <td style="width: 73.9515%;">Google – 140h</td>
 </tr>
 <tr>
@@ -88,7 +96,7 @@
 <tbody>
 <tr>
 <td style="width: 10.4424%;">Desde 2023</td>
-<td style="width: 88.9776%;">Analista de dados, responsável por desenvolver Projetos de Visualização de Big Data, Modelagem de Dados - Power BI, Google Looker Data Studio, Grafana, Databricks, Google Analytics, Google BigQuery, Python, SQL.</td>
+<td style="width: 88.9776%;">Consultor de dados, responsável por: Desenvolvimento de projetos de Big Data com Power BI, Grafana, e Databricks. Análise e modelagem de dados utilizando SQL e Google BigQuery. Desenvolvimento de dashboards para o Santander (FIRST Tech) e Bradesco, e homologação de tagueamento no Google Analytics. </td>
 </tr>
 <tr>
 <td style="width: 10.4424%;">Desde 2015</td>
@@ -113,7 +121,6 @@
 <ul>
  	<li><b><em><a href="https://www.youtube.com/channel/UCGloIrjJ2Hadenqc1YcQT0A?sub_confirmation=1" target="_blank" rel="noopener noreferrer">Duvidando</a></em></b>: Canal no YouTube com conteúdo educacional acessível em LIBRAS: últimos anos do Ensinos Fundamental e Médio.</li>
  	<li><b><em><a href="https://www.makerzine.com.br/" target="_blank" rel="noopener noreferrer">MakerZine</a></em></b>: Site para fomentar o compartilhamento de práticas pedagógicas entre professores.</li>
- 	<li><b><em><a href="https://www.makerzine.com.br/cozinha-de-dados/" target="_blank" rel="noopener noreferrer">Cozinha de dados</a></em></b>:  Conteúdos voltados para o universo de dados, análises e gestão.</li>
  	<li><b><em><a href="https://www.youtube.com/channel/UCZIdVI9NbgYE1YIEpM0Wnmw?sub_confirmation=1" target="_blank" rel="noopener noreferrer">Meu canal</a></em></b>: Canal no YouTube com conteúdo educacional, voltado para formação continuada de professores.</li>
 </ul>
 &nbsp;
