@@ -4,11 +4,9 @@
 <tr>
 <td style="width: 75%;">Meu nome é <strong>Rodrigo Terra</strong>.
 
-Tenho mais de 20 anos de experiência como Professor de Física, STEAM e Maker, começando minha carreira como Plantonista e avançando até a Coordenação Pedagógica. Atualmente, atuo como Consultor Pedagógico e Analista de Dados.
-
-Sou um firme defensor de uma formação diversificada que amplia as perspectivas e abre novos horizontes de possibilidades para nossos alunos. Por isso, estabeleci como meta, tanto pessoal quanto profissional, a busca constante por aprendizado em áreas que vão além da minha zona de conforto.
-
-Sou apaixonado por uma boa conversa e valorizo muito um café — dois elementos fundamentais para construir um excelente networking!</td>
+Com formação inicial em Física, especialização em Ciências Educacionais com ênfase em Tecnologia Educacional e Docência, e graduação em Ciências de Dados, construí uma trajetória sólida que une educação, tecnologias ee inovação. 
+Desde 2001, dedico-me ao campo educacional, e desde 2019, atuo também na área de ciência de dados, buscando sempre encontrar soluções focadas no desenvolvimento humano. Minha experiência combina um profundo conhecimento em educação com habilidades técnicas em dados e programação, permitindo-me criar soluções estratégicas e práticas. Com ampla vivência em análise de dados, definição de métricas e desenvolvimento de indicadores, acredito que a formação transdisciplinar é essencial para preparar indivíduos conscientes e capacitados para os desafios do mundo contemporâneo. 
+Apaixonado por café e boas conversas, sou movido pela curiosidade e pela busca constante de novas ideias e perspectivas. Minha missão é contribuir para uma educação que inspire pensamento crítico, estimule a criatividade e promova a colaboração.</td>
 </tr>
 </tbody>
 </table>
