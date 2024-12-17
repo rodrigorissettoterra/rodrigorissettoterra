@@ -135,7 +135,7 @@
 <h2><b>Meus contatos e sites...</b></h2>
 <ul>
  	<li><em><b>LinkedIn -</b></em> <a href="https://www.linkedin.com/in/rodrigo-rissetto-terra" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://www.linkedin.com/in/rodrigo-rissetto-terra</em></span></a></li>
- 	<li><em><b>Portfólio Tech - </b></em><a href="https://www.makerzine.com.br/portfolio" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://www.makerzine.com.br/portfolio</em>em></span></a></li>
+ 	<li><em><b>Portfólio Tech - </b></em><a href="https://www.makerzine.com.br/portfolio" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://www.makerzine.com.br/portfolio</em></span></a></li>
  	<li><em><b>Certificados Alura</b></em> - <a href="https://cursos.alura.com.br/user/rodrigorissettoterra/fullCertificate/98debe9ca9a699a7771884bbf95d09b8" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://cursos.alura.com.br/user/rodrigorissettoterra/fullCertificate/98debe9ca9a699a7771884bbf95d09b8</em></span></a></li>
  	<li><em><b>Badges, via Credly</b></em> - <a href="https://www.credly.com/users/rodrigo-terra" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://www.credly.com/users/rodrigo-terra</em></span></a></li>
 </ul>
