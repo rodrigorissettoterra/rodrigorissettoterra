@@ -108,7 +108,7 @@
 </tr>
 <tr>
 <td style="width: 10.4424%;">Desde 2002</td>
-<td style="width: 88.9776%;">Grande experiência em sala de aula, passando pelas mais diversas metodologias de ensino e os mais variados materiais didáticos.</td>
+<td style="width: 88.9776%;">Grande experiência em sala de aula, passando pelas mais diversas metodologias de ensino e os mais variados materiais didáticos. Já desenvolvendo trabalhos de análise de dados sem saber que eram trabalhos de análise de dados! hehehehehe </td>
 </tr>
 <tr>
 <td style="width: 10.4424%;">Desde 1983</td>
