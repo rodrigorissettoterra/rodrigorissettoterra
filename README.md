@@ -126,6 +126,7 @@
  	<li><b><em><a href="https://www.youtube.com/channel/UCGloIrjJ2Hadenqc1YcQT0A?sub_confirmation=1" target="_blank" rel="noopener noreferrer">Duvidando</a></em></b>: Canal no YouTube com conteúdo educacional acessível em LIBRAS: últimos anos do Ensinos Fundamental e Médio.</li>
  	<li><b><em><a href="https://www.makerzine.com.br/" target="_blank" rel="noopener noreferrer">MakerZine</a></em></b>: Site para fomentar o compartilhamento de práticas pedagógicas entre professores.</li>
  	<li><b><em><a href="https://www.youtube.com/channel/UCZIdVI9NbgYE1YIEpM0Wnmw?sub_confirmation=1" target="_blank" rel="noopener noreferrer">Meu canal</a></em></b>: Canal no YouTube com conteúdo educacional, voltado para formação continuada de professores.</li>
+  <li><b><em><a href="https://www.gepeteco.com.br/" target="_blank" rel="noopener noreferrer">Gepeteco</a></em></b>: Plataforma de inteligência artificial que transforma o trabalho do professor em uma experiência mais simples, inteligente e integrada, do planejamento à prática em sala de aula.</li>
 </ul>
 &nbsp;
 <h2><b>Meus interesses ...
