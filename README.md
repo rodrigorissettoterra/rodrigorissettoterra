@@ -15,6 +15,10 @@
 <table style="border-collapse: collapse; width: 100%; height: 190px;">
 <tbody>
 <tr style="height: 24px;">
+<td style="width: 30.1095%; height: 24px;"><b><em>Pós graduação em Inteligência Artificial e Computacional</em></b></td>
+<td style="width: 69.8906%; height: 24px;">Universidade Federal de Viçosa (<i>UFV</i>)</td>
+</tr>
+<tr style="height: 24px;">
 <td style="width: 30.1095%; height: 24px;"><b><em>Bacharelado em Ciências de Dados</em></b></td>
 <td style="width: 69.8906%; height: 24px;">Universidade Virtual do Estado de São Paulo (<i>UNIVESP</i>)</td>
 </tr>
