@@ -1,4 +1,4 @@
-<h1>Olá, eu sou Rodrigo Terra 👋</h1>
+<h1>Olá, eu sou Rodrigo Terra</h1>
 
 <p>
 Sou <strong>físico de formação e profissional de Data & AI</strong>, com uma trajetória multidisciplinar que conecta Ciência de Dados, Engenharia de Analytics, Inteligência Artificial, automação, tecnologia e educação.
@@ -18,7 +18,7 @@ Também mantenho uma forte relação com educação, cultura maker e divulgaçã
 
 <p>
   <a href="https://www.linkedin.com/in/rodrigo-rissetto-terra"><img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Terra-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.makerzine.com.br/portfolio"><img src="https://img.shields.io/badge/Portfólio-Tech-222222" alt="Portfólio Tech"></a>
+  <a href="https://www.makerzine.com.br/portfolio"><img src="https://img.shields.io/badge/Portfólio-Tech-222222" alt="Portfólio MakerZine"></a>
   <a href="https://www.gepeteco.com.br/"><img src="https://img.shields.io/badge/Projeto-Gepeteco-6C5CE7" alt="Gepeteco"></a>
   <a href="https://www.makerzine.com.br/"><img src="https://img.shields.io/badge/Projeto-MakerZine-00875A" alt="MakerZine"></a>
 </p>
@@ -54,7 +54,7 @@ Também mantenho uma forte relação com educação, cultura maker e divulgaçã
 
 <h2>Projetos em destaque ...</h2>
 
-### 🤖 [AI Model Studies](https://github.com/rodrigorissettoterra/ai-model-studies)
+### [AI Model Studies](https://github.com/rodrigorissettoterra/ai-model-studies)
 
 Coleção progressiva de estudos práticos que percorre **Machine Learning, Deep Learning, NLP, séries temporais, embeddings, RAG, avaliação de RAG, agentes, sistemas multiagentes, MLOps, inferência causal e sistemas de recomendação**.
 
@@ -62,7 +62,7 @@ O objetivo não é apenas executar algoritmos, mas investigar métricas, desenho
 
 ---
 
-### 🏥 [SRAG Intelligence](https://github.com/rodrigorissettoterra/indicium-srag-intelligence)
+### [SRAG Intelligence](https://github.com/rodrigorissettoterra/indicium-srag-intelligence)
 
 PoC end-to-end de inteligência epidemiológica utilizando dados públicos do **SIVEP-Gripe / Open DATASUS**, com ingestão e qualidade de dados, camada analítica em DuckDB, geração de métricas, busca contextual, workflow de IA Generativa com LangGraph, guardrails, trilha de auditoria e geração automatizada de relatório em PDF.
 
@@ -70,7 +70,7 @@ O projeto separa explicitamente **cálculo determinístico de interpretação po
 
 ---
 
-### 🧱 [Olist Data & AI Platform](https://github.com/rodrigorissettoterra/olist-data-ai-platform)
+### [Olist Data & AI Platform](https://github.com/rodrigorissettoterra/olist-data-ai-platform)
 
 Plataforma **Data & AI end-to-end, local-first**, construída como projeto de engenharia de portfólio para transformar dados brutos de e-commerce em dados confiáveis, métricas governadas, BI, Machine Learning e investigação assistida por Agentic AI.
 
@@ -86,7 +86,7 @@ O projeto está sendo desenvolvido por milestones, com decisões arquiteturais d
 
 ---
 
-### 📊 [Adventure Works Analytics Engineering](https://github.com/rodrigorissettoterra/adventure-works-analytics-engineering)
+### [Adventure Works Analytics Engineering](https://github.com/rodrigorissettoterra/adventure-works-analytics-engineering)
 
 Projeto de **Analytics Engineering com dbt** para transformar dados comerciais brutos em uma camada dimensional confiável, auditável e orientada ao consumo analítico.
 
@@ -94,7 +94,7 @@ Inclui staging, modelos intermediários, fatos, dimensões, contratos de métric
 
 ---
 
-### 🧑‍🏫 [Gepeteco](https://www.gepeteco.com.br/)
+### [Gepeteco](https://www.gepeteco.com.br/)
 
 Projeto autoral de longo prazo que combina **Inteligência Artificial e Educação**. O Gepeteco é uma plataforma criada para tornar o trabalho do professor mais simples, inteligente e integrado, apoiando atividades que vão do planejamento à prática pedagógica.
 
@@ -102,7 +102,7 @@ O desenvolvimento envolve produto, arquitetura, IA, automação, segurança, exp
 
 ---
 
-### 🛠️ [MakerZine](https://www.makerzine.com.br/)
+### [MakerZine](https://www.makerzine.com.br/)
 
 Projeto dedicado ao compartilhamento de práticas, tecnologias e conhecimento para professores e pessoas interessadas em educação, ciência, programação, cultura maker e Inteligência Artificial.
 
@@ -220,7 +220,7 @@ Mais certificados e formações podem ser consultados nos links ao final da pág
 <li><strong>Educação —</strong> continuo interessado em como tecnologia, dados e IA podem ampliar a capacidade de ensinar e aprender.</li>
 <li><strong>Maker —</strong> construir, desmontar, experimentar e descobrir como as coisas funcionam faz parte da minha história desde cedo.</li>
 <li><strong>Networking —</strong> boas conversas quase sempre criam novas ideias.</li>
-<li><strong>Café —</strong> parte importante da infraestrutura. ☕</li>
+<li><strong>Café —</strong> porque café é só amor ... ☕</li>
 </ul>
 
 ---
