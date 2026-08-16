@@ -1,147 +1,243 @@
-<h1>Olá ...</h1>
-<table style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr>
-<td style="width: 75%;">Meu nome é <strong>Rodrigo Terra</strong>.
-</br>
-<p>Com formação inicial em Física, especialização em Ciências Educacionais com ênfase em Tecnologia Educacional e Docência, e graduação em Ciências de Dados, construí uma trajetória sólida que une educação, tecnologias e inovação.</p>
-<p>Desde 2001, dedico-me ao campo educacional, e desde 2019, atuo também na área de ciência de dados, buscando sempre encontrar soluções focadas no desenvolvimento humano. Minha experiência combina um profundo conhecimento em educação com habilidades técnicas em dados e programação, permitindo-me criar soluções estratégicas e práticas. Com ampla vivência em análise de dados, definição de métricas e desenvolvimento de indicadores, acredito que a formação transdisciplinar é essencial para preparar indivíduos conscientes e capacitados para os desafios do mundo contemporâneo.</p>
-<p>Apaixonado por café e boas conversas, sou movido pela curiosidade e pela busca constante de novas ideias e perspectivas. Minha missão é contribuir para uma educação que inspire pensamento crítico, estimule a criatividade e promova a colaboração.</p></td>
-</tr>
-</tbody>
-</table>
-&nbsp;
-<h2><b>Minha formação ... </b></h2>
-<table style="border-collapse: collapse; width: 100%; height: 190px;">
-<tbody>
-<tr style="height: 24px;">
-<td style="width: 30.1095%; height: 24px;"><b><em>Pós graduação em Inteligência Artificial e Computacional</em></b></td>
-<td style="width: 69.8906%; height: 24px;">Universidade Federal de Viçosa (<i>UFV</i>)</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 30.1095%; height: 24px;"><b><em>Bacharelado em Ciências de Dados</em></b></td>
-<td style="width: 69.8906%; height: 24px;">Universidade Virtual do Estado de São Paulo (<i>UNIVESP</i>)</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 30.1095%; height: 24px;"><b><em>Especialização em Tecnologias na Educação</em></b></td>
-<td style="width: 69.8906%; height: 24px;">Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (<em>IFMG</em>)</td>
-</tr>
-<tr style="height: 22px;">
-<td style="width: 30.1095%; height: 22px;"><b><em>MBA em Marketing Digital e E-commerce</em></b></td>
-<td style="width: 69.8906%; height: 22px;">Serviço Nacional de Aprendizagem Comercial (<em>SENAC</em>)</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 30.1095%; height: 24px;"><b><em>MBA em Engenharia Financeira</em></b></td>
-<td style="width: 69.8906%; height: 24px;">Programa de Educação Continuada da Escola Politécnica da USP (<em>PECE</em>-<wbr /><em>Poli</em>)</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 30.1095%; height: 24px;"><b><em>Licenciatura em Física</em></b></td>
-<td style="width: 69.8906%; height: 24px;">Instituto de Física da Universidade de São Paulo (<em>IF-USP</em>)</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 30.1095%; height: 24px;"><b><em>Técnico em Mecatrônica</em></b></td>
-<td style="width: 69.8906%; height: 24px;">Escola Técnica Estadual Lauro Gomes (<em>ETEC-LG</em>)</td>
-</tr>
-</tbody>
-</table>
-&nbsp;
+<h1>Olá, eu sou Rodrigo Terra 👋</h1>
 
-... se tudo der certo a lista aumentará cada vez mais ...
+<p>
+Sou <strong>físico de formação e profissional de Data & AI</strong>, com uma trajetória multidisciplinar que conecta Ciência de Dados, Engenharia de Analytics, Inteligência Artificial, automação, tecnologia e educação.
+</p>
 
-&nbsp;
-<h2><b>Minhas certificações profissionais ... </b></h2>
-<table style="border-collapse: collapse; width: 100%; height: 190px;">
-<tbody>
-<tr style="height: 24px;">
-<td style="width: 26.0486%; height: 24px;"><b><em>Machine Learning Specialization</em></b></td>
-<td style="width: 73.9515%; height: 24px;">Stanford e DeepLearning.AI – 94h</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 26.0486%; height: 24px;"><b><em>Mathematics for Machine Learning and Data Science</em></b></td>
-<td style="width: 73.9515%; height: 24px;">DeepLearning.AI – 93h</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 26.0486%; height: 24px;"><b><em>Google Advanced Data Analytics (Professional Certificate)</em></b></td>
-<td style="width: 73.9515%; height: 24px;">Google – 201h</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 26.0486%; height: 24px;"><em><strong>Google Data Analyst(Professional Certificate)</strong></em></td>
-<td style="width: 73.9515%; height: 24px;">Google – 178h</td>
-</tr>
-<tr style="height: 22px;">
-<td style="width: 26.0486%; height: 22px;"><em><strong>Bootcamp Técnico de Banco de Dados</strong></em></td>
-<td style="width: 73.9515%; height: 22px;">XP Educação – 148h</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 26.0486%; height: 24px;"><b><em>Formação Data Science</em></b></td>
-<td style="width: 73.9515%; height: 24px;">Alura – 102h</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 26.0486%; height: 24px;"><b><i>Data Analytics</i></b></td>
-<td style="width: 73.9515%; height: 24px;">Digital House – 140h</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 26.0486%; height: 24px;"><b><i>IBM Data Analyst(Professional Certificate)</i></b></td>
-<td style="width: 73.9515%; height: 24px;">IBM – 148h</td>
+<p>
+Minha carreira começou na Física e na Educação e, ao longo dos anos, evoluiu para projetos orientados por dados e tecnologia. Hoje, meu foco está em transformar dados e IA em <strong>sistemas confiáveis, produtos úteis e decisões melhores</strong> — da modelagem e engenharia de dados à IA Generativa, sistemas agênticos, APIs, automações, observabilidade e MLOps.
+</p>
+
+<p>
+Gosto especialmente de problemas que exigem combinar <strong>visão de negócio, pensamento analítico e engenharia</strong>. Mais do que experimentar modelos, procuro entender como construir soluções que possam ser avaliadas, auditadas, integradas e operadas no mundo real.
+</p>
+
+<p>
+Também mantenho uma forte relação com educação, cultura maker e divulgação de conhecimento. Curiosidade continua sendo uma das principais forças por trás de tudo o que construo — normalmente acompanhada de café. ☕
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/rodrigo-rissetto-terra"><img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Terra-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.makerzine.com.br/portfolio"><img src="https://img.shields.io/badge/Portfólio-Tech-222222" alt="Portfólio Tech"></a>
+  <a href="https://www.gepeteco.com.br/"><img src="https://img.shields.io/badge/Projeto-Gepeteco-6C5CE7" alt="Gepeteco"></a>
+  <a href="https://www.makerzine.com.br/"><img src="https://img.shields.io/badge/Projeto-MakerZine-00875A" alt="MakerZine"></a>
+</p>
+
+---
+
+<h2>O que eu faço ...</h2>
+
+<table>
+<tr>
+<td><strong>Data & Analytics Engineering</strong></td>
+<td>Modelagem analítica, pipelines, SQL, dbt, métricas, qualidade de dados, data warehouses e camadas de consumo para BI e Analytics.</td>
 </tr>
 <tr>
-<td style="width: 26.0486%;"><b><i>Google Project Management(Professional Certificate)</i></b></td>
-<td style="width: 73.9515%;">Google – 140h</td>
+<td><strong>Artificial Intelligence</strong></td>
+<td>Machine Learning, IA Generativa, LLMs, RAG, embeddings, avaliação de sistemas de IA e arquiteturas com agentes.</td>
 </tr>
 <tr>
-<td style="width: 26.0486%;"><b><i>Bootcamp - Cientista de Dados</i></b></td>
-<td style="width: 73.9515%;">XP Educação (Antigo IGTI) – 148h</td>
+<td><strong>AI Engineering & MLOps</strong></td>
+<td>APIs, serving, automação, observabilidade, monitoramento, guardrails, testes, Docker e integração de modelos a aplicações reais.</td>
 </tr>
-</tbody>
+<tr>
+<td><strong>Automation & Integration</strong></td>
+<td>Integração de sistemas e dados por APIs REST, Python e n8n, com foco em reduzir trabalho manual e tornar processos mais confiáveis.</td>
+</tr>
+<tr>
+<td><strong>Education & Technology</strong></td>
+<td>EdTech, formação de professores, STEAM, cultura maker, ambientes digitais de aprendizagem e uso responsável de IA na educação.</td>
+</tr>
 </table>
-&nbsp;
-<h2><b>Minhas experiências profissionais ...</b></h2>
-<table style="width: 100%;">
-<tbody>
+
+---
+
+<h2>Projetos em destaque ...</h2>
+
+### 🤖 [AI Model Studies](https://github.com/rodrigorissettoterra/ai-model-studies)
+
+Coleção progressiva de estudos práticos que percorre **Machine Learning, Deep Learning, NLP, séries temporais, embeddings, RAG, avaliação de RAG, agentes, sistemas multiagentes, MLOps, inferência causal e sistemas de recomendação**.
+
+O objetivo não é apenas executar algoritmos, mas investigar métricas, desenho experimental, avaliação, limitações e trade-offs de diferentes abordagens.
+
+---
+
+### 🏥 [SRAG Intelligence](https://github.com/rodrigorissettoterra/indicium-srag-intelligence)
+
+PoC end-to-end de inteligência epidemiológica utilizando dados públicos do **SIVEP-Gripe / Open DATASUS**, com ingestão e qualidade de dados, camada analítica em DuckDB, geração de métricas, busca contextual, workflow de IA Generativa com LangGraph, guardrails, trilha de auditoria e geração automatizada de relatório em PDF.
+
+O projeto separa explicitamente **cálculo determinístico de interpretação por LLM**, reduzindo risco de alucinação numérica e aumentando auditabilidade.
+
+---
+
+### 🧱 [Olist Data & AI Platform](https://github.com/rodrigorissettoterra/olist-data-ai-platform)
+
+Plataforma **Data & AI end-to-end, local-first**, construída como projeto de engenharia de portfólio para transformar dados brutos de e-commerce em dados confiáveis, métricas governadas, BI, Machine Learning e investigação assistida por Agentic AI.
+
+Arquitetura planejada:
+
+```text
+Sources → Ingestion → Raw/Bronze → Data Quality → Silver
+        → Analytics Engineering → Gold → Metrics Layer
+        → BI / ML / Agent → Serving → Observability → Feedback
+```
+
+O projeto está sendo desenvolvido por milestones, com decisões arquiteturais documentadas e foco em reprodutibilidade, governança e operação.
+
+---
+
+### 📊 [Adventure Works Analytics Engineering](https://github.com/rodrigorissettoterra/adventure-works-analytics-engineering)
+
+Projeto de **Analytics Engineering com dbt** para transformar dados comerciais brutos em uma camada dimensional confiável, auditável e orientada ao consumo analítico.
+
+Inclui staging, modelos intermediários, fatos, dimensões, contratos de métricas, testes, reconciliação financeira e integração planejada com **Databricks e Power BI**.
+
+---
+
+### 🧑‍🏫 [Gepeteco](https://www.gepeteco.com.br/)
+
+Projeto autoral de longo prazo que combina **Inteligência Artificial e Educação**. O Gepeteco é uma plataforma criada para tornar o trabalho do professor mais simples, inteligente e integrado, apoiando atividades que vão do planejamento à prática pedagógica.
+
+O desenvolvimento envolve produto, arquitetura, IA, automação, segurança, experiência do usuário e integração de diferentes fluxos educacionais.
+
+---
+
+### 🛠️ [MakerZine](https://www.makerzine.com.br/)
+
+Projeto dedicado ao compartilhamento de práticas, tecnologias e conhecimento para professores e pessoas interessadas em educação, ciência, programação, cultura maker e Inteligência Artificial.
+
+É também um espaço onde reúno minha experiência de longa data com **Física, Educação, tecnologia e produção de conteúdo**.
+
+---
+
+<h2>Tecnologias e áreas de interesse ...</h2>
+
+<table>
 <tr>
-<td style="width: 10.4424%;">Desde 2023</td>
-<td style="width: 88.9776%;">Consultor de dados, responsável por: Desenvolvimento de projetos de Big Data com Power BI, Grafana, e Databricks. Análise e modelagem de dados utilizando SQL e Google BigQuery. Desenvolvimento de dashboards para o Santander (FIRST Tech) e Bradesco, e homologação de tagueamento no Google Analytics. </td>
+<td><strong>Dados</strong></td>
+<td>Python · SQL · Pandas · PostgreSQL · DuckDB · BigQuery · dbt · Databricks</td>
 </tr>
 <tr>
-<td style="width: 10.4424%;">Desde 2015</td>
-<td style="width: 88.9776%;">EAD: +200 vídeos de Física já gravados. Duvidando: Administração, Gestão pedagógica, Edição de vídeos, Desenvolvimento do site e Aulas de Física.</td>
+<td><strong>Analytics & BI</strong></td>
+<td>Power BI · métricas · modelagem dimensional · data quality · visualização · análise estatística</td>
 </tr>
 <tr>
-<td style="width: 10.4424%;">Desde 2013</td>
-<td style="width: 88.9776%;">Consultoria Educacional: Análise de dados de alunos, professores e empresas educacionais, Desenvolvimento de conteúdo para material didático, Desenvolvimento de exercícios de fixação e aprofundamento para material didático, Desenvolvimento de projetos de STEAM para material didático e para escolas, Revisão de material didático para editoras, Desenvolvimento de LMS (<em>Learning Management System</em>), Desenvolvimento de atividades lúdicas e experimentos científicos, Desenvolvimento de trilha de conhecimento de Física e Matemática, Desenvolvimento de soluções com relação ao uso de Tecnologia Educacional, Desenvolvimento de MakerSpaces, entre outras ...</td>
+<td><strong>Machine Learning</strong></td>
+<td>scikit-learn · forecasting · classificação · regressão · recomendação · experimentação · inferência causal</td>
 </tr>
 <tr>
-<td style="width: 10.4424%;">Desde 2002</td>
-<td style="width: 88.9776%;">Grande experiência em sala de aula, passando pelas mais diversas metodologias de ensino e os mais variados materiais didáticos. Já desenvolvendo trabalhos de análise de dados sem saber que eram trabalhos de análise de dados! hehehehehe </td>
+<td><strong>Generative AI</strong></td>
+<td>LLMs · RAG · embeddings · LangGraph · tool use · multi-agent systems · evals · guardrails</td>
 </tr>
 <tr>
-<td style="width: 10.4424%;">Desde 1983</td>
-<td style="width: 88.9776%;">Maker curioso</td>
+<td><strong>Engineering</strong></td>
+<td>FastAPI · REST APIs · Docker · Git · GitHub Actions · n8n · CI/CD</td>
 </tr>
-</tbody>
+<tr>
+<td><strong>Observability & MLOps</strong></td>
+<td>MLflow · Prometheus · Grafana · OpenTelemetry · logging · monitoring · drift</td>
+</tr>
 </table>
-&nbsp;
-<h2><b>Meus projetos ...</b></h2>
+
+---
+
+<h2>Minha formação ...</h2>
+
+<table>
+<tr>
+<td><strong><em>Pós-graduação em Inteligência Artificial e Computacional</em></strong></td>
+<td>Universidade Federal de Viçosa (<em>UFV</em>)</td>
+</tr>
+<tr>
+<td><strong><em>Bacharelado em Ciências de Dados</em></strong></td>
+<td>Universidade Virtual do Estado de São Paulo (<em>UNIVESP</em>)</td>
+</tr>
+<tr>
+<td><strong><em>Especialização em Tecnologias na Educação</em></strong></td>
+<td>Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (<em>IFMG</em>)</td>
+</tr>
+<tr>
+<td><strong><em>MBA em Marketing Digital e E-commerce</em></strong></td>
+<td>Serviço Nacional de Aprendizagem Comercial (<em>SENAC</em>)</td>
+</tr>
+<tr>
+<td><strong><em>MBA em Engenharia Financeira</em></strong></td>
+<td>Programa de Educação Continuada da Escola Politécnica da USP (<em>PECE-Poli</em>)</td>
+</tr>
+<tr>
+<td><strong><em>Licenciatura em Física</em></strong></td>
+<td>Instituto de Física da Universidade de São Paulo (<em>IF-USP</em>)</td>
+</tr>
+<tr>
+<td><strong><em>Técnico em Mecatrônica</em></strong></td>
+<td>Escola Técnica Estadual Lauro Gomes (<em>ETEC-LG</em>)</td>
+</tr>
+</table>
+
+<p><em>Uma trajetória intencionalmente multidisciplinar: ciência, dados, tecnologia, negócios e educação.</em></p>
+
+---
+
+<h2>Certificações profissionais em destaque ...</h2>
+
+<table>
+<tr>
+<td><strong><em>Machine Learning Specialization</em></strong></td>
+<td>Stanford University + DeepLearning.AI</td>
+</tr>
+<tr>
+<td><strong><em>Mathematics for Machine Learning and Data Science</em></strong></td>
+<td>DeepLearning.AI</td>
+</tr>
+<tr>
+<td><strong><em>Google Advanced Data Analytics Professional Certificate</em></strong></td>
+<td>Google</td>
+</tr>
+<tr>
+<td><strong><em>Google Data Analytics Professional Certificate</em></strong></td>
+<td>Google</td>
+</tr>
+<tr>
+<td><strong><em>Google Project Management Professional Certificate</em></strong></td>
+<td>Google</td>
+</tr>
+<tr>
+<td><strong><em>Bootcamp Cientista de Dados</em></strong></td>
+<td>XP Educação / IGTI</td>
+</tr>
+</table>
+
+<p>
+Mais certificados e formações podem ser consultados nos links ao final da página.
+</p>
+
+---
+
+<h2>Além do código ...</h2>
+
 <ul>
- 	<li><b><em><a href="https://www.youtube.com/channel/UCGloIrjJ2Hadenqc1YcQT0A?sub_confirmation=1" target="_blank" rel="noopener noreferrer">Duvidando</a></em></b>: Canal no YouTube com conteúdo educacional acessível em LIBRAS: últimos anos do Ensinos Fundamental e Médio.</li>
- 	<li><b><em><a href="https://www.makerzine.com.br/" target="_blank" rel="noopener noreferrer">MakerZine</a></em></b>: Site para fomentar o compartilhamento de práticas pedagógicas entre professores.</li>
- 	<li><b><em><a href="https://www.youtube.com/channel/UCZIdVI9NbgYE1YIEpM0Wnmw?sub_confirmation=1" target="_blank" rel="noopener noreferrer">Meu canal</a></em></b>: Canal no YouTube com conteúdo educacional, voltado para formação continuada de professores.</li>
-  <li><b><em><a href="https://www.gepeteco.com.br/" target="_blank" rel="noopener noreferrer">Gepeteco</a></em></b>: Plataforma de inteligência artificial que transforma o trabalho do professor em uma experiência mais simples, inteligente e integrada, do planejamento à prática em sala de aula.</li>
+<li><strong>Conhecimento —</strong> gosto de aprender assuntos diferentes e conectar ideias que normalmente aparecem separadas.</li>
+<li><strong>Educação —</strong> continuo interessado em como tecnologia, dados e IA podem ampliar a capacidade de ensinar e aprender.</li>
+<li><strong>Maker —</strong> construir, desmontar, experimentar e descobrir como as coisas funcionam faz parte da minha história desde cedo.</li>
+<li><strong>Networking —</strong> boas conversas quase sempre criam novas ideias.</li>
+<li><strong>Café —</strong> parte importante da infraestrutura. ☕</li>
 </ul>
-&nbsp;
-<h2><b>Meus interesses ...
-</b></h2>
+
+---
+
+<h2>Contatos e links ...</h2>
+
 <ul>
- 	<li><em><b>Conhecimento -</b></em> Tudo tem o seu lado interessante... Se algo faz seus olhos brilharem, tenho certeza que brilhará os meus também!</li>
- 	<li><em><b>Networking -</b></em>Que tal conversarmos enquanto bebemos um café?</li>
- 	<li><em><b>Café -</b></em>Porque café é só amor!</li>
+<li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/rodrigo-rissetto-terra">linkedin.com/in/rodrigo-rissetto-terra</a></li>
+<li><strong>Portfólio Tech:</strong> <a href="https://www.makerzine.com.br/portfolio">makerzine.com.br/portfolio</a></li>
+<li><strong>MakerZine:</strong> <a href="https://www.makerzine.com.br/">makerzine.com.br</a></li>
+<li><strong>Gepeteco:</strong> <a href="https://www.gepeteco.com.br/">gepeteco.com.br</a></li>
+<li><strong>Certificados Alura:</strong> <a href="https://cursos.alura.com.br/user/rodrigorissettoterra/fullCertificate/98debe9ca9a699a7771884bbf95d09b8">perfil completo</a></li>
+<li><strong>Badges / Credly:</strong> <a href="https://www.credly.com/users/rodrigo-terra">credly.com/users/rodrigo-terra</a></li>
 </ul>
-&nbsp;
-<h2><b>Meus contatos e sites...</b></h2>
-<ul>
- 	<li><em><b>LinkedIn -</b></em> <a href="https://www.linkedin.com/in/rodrigo-rissetto-terra" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://www.linkedin.com/in/rodrigo-rissetto-terra</em></span></a></li>
- 	<li><em><b>Portfólio Tech - </b></em><a href="https://www.makerzine.com.br/portfolio" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://www.makerzine.com.br/portfolio</em></span></a></li>
- 	<li><em><b>Certificados Alura</b></em> - <a href="https://cursos.alura.com.br/user/rodrigorissettoterra/fullCertificate/98debe9ca9a699a7771884bbf95d09b8" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://cursos.alura.com.br/user/rodrigorissettoterra/fullCertificate/98debe9ca9a699a7771884bbf95d09b8</em></span></a></li>
- 	<li><em><b>Badges, via Credly</b></em> - <a href="https://www.credly.com/users/rodrigo-terra" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://www.credly.com/users/rodrigo-terra</em></span></a></li>
-</ul>
-&nbsp;
+
+---
+
+<p align="center">
+<strong>Data · AI · Engineering · Education · Curiosity</strong>
+</p>
